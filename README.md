@@ -88,6 +88,8 @@ Response:
 
 <img width="837" height="362" alt="image" src="https://github.com/user-attachments/assets/82960d05-530d-4938-90e4-f4d92ba28054" />
 
+
+
 Prompt 2: 👉 "Create a table showing three advantages and three disadvantages of QPSK modulation in satellite communication."
 
 Response:
@@ -97,6 +99,7 @@ Response:
 3. Preceding Question Prompting
 
 Prompt 1: 👉 "Why is modulation necessary in satellite communication? Explain how QPSK helps in multimedia transmission." Response:
+
 
 Modulation is necessary to efficiently transmit signals over long distances, minimize interference, and make efficient use of bandwidth.
 QPSK allows transmission of 2 bits per symbol, which increases data rate and ensures reliable multimedia communication.
@@ -108,11 +111,15 @@ This makes FM more suitable for audio and video broadcasting over satellites.
 
 4. Missing Word Prompting
 
+
 Prompt 1: 👉 "In satellite communication, modulation is used to improve ____." 
+
 
 Response: Transmission efficiency.
 
+
 Prompt 2: 👉 "QPSK modulation encodes ____ bits per symbol."
+
 
 Response: 2 bits per symbol.
 
