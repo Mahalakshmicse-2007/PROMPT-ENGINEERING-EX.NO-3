@@ -61,8 +61,25 @@ Missing Word Prompting → Suitable for recall-based practice or fill-in-the-bla
 
 Prompt 1: 👉 "Define modulation in one sentence." Response: Modulation is the process of varying a carrier signal to transmit information efficiently.
 
+Response:
+Modulation is the process of varying a carrier signal in order to transmit information efficiently over a communication channel.
+
+Simple explanation:
+In communication systems, the information signal (like voice or data) is combined with a high-frequency carrier signal so it can travel long distances without much loss.
+
 Prompt 2: 👉 "List three modulation techniques used in satellite communication for multimedia signals." Response: The three commonly used modulation techniques are Amplitude Modulation (AM), Frequency Modulation (FM), and Quadrature Phase Shift Keying (QPSK).
 
+Response:
+The three commonly used modulation techniques are:
+
+Amplitude Modulation (AM)
+
+Frequency Modulation (FM)
+
+Quadrature Phase Shift Keying (QPSK)
+
+✅ Note:
+These techniques are used to encode multimedia signals (audio, video, and data) onto a carrier signal for transmission through satellites.
 2. Tabular Format Prompting
 
 Prompt 1: 👉 "Provide a table comparing AM, FM, and QPSK modulation techniques in terms of signal quality, bandwidth, and application."
