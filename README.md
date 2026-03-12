@@ -108,11 +108,13 @@ This makes FM more suitable for audio and video broadcasting over satellites.
 
 4. Missing Word Prompting
 
-Prompt 1: 👉 "In satellite communication, modulation is used to improve ____." Response: Transmission efficiency.
+Prompt 1: 👉 "In satellite communication, modulation is used to improve ____." 
 
-Prompt 2: 👉 "QPSK modulation encodes ____ bits per symbol." Response: 2 bits per symbol.
+Response: Transmission efficiency.
 
-<img width="1076" height="623" alt="image" src="https://github.com/user-attachments/assets/f94ecf85-0209-4c40-b508-34b3dac13391" />
+Prompt 2: 👉 "QPSK modulation encodes ____ bits per symbol."
+
+Response: 2 bits per symbol.
 
 # RESULT: The various types of Prompts are executed successfully with generated the report.
 
